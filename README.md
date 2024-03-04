@@ -19,8 +19,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
+# The Bookstore
 
-**[The Bookstore]** is a website which allows to user: -Display a list of books; -Add a book; -Remove a selected book;<br />
+**The Bookstore** is a website which allows to user: -Display a list of books; -Add a book; -Remove a selected book;<br />
 
 ## 🛠 Built With <a name="built-with"></a>
 
